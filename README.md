@@ -7,7 +7,7 @@
 <p align="center">
  <a href="#objetivo">Aprimoração em programação</a> •
  <a href="#linguagens">HTML e CSS</a> • 
- <a href="#contribuicao">Equipe Rocketseat e Rylibin</a> • 
+ <a href="#contribuicao">Equipe Rocketseat e RyanLBroilo</a> • 
  <a href="#licenc-a">rocketseat (C) 2022</a> • 
- <a href="#autor">Rylibin</a>
+ <a href="#autor">ryanlbroilo</a>
 </p>
